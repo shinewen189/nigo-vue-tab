@@ -1,7 +1,7 @@
 {
   "name": "nigo-vue-tab",
-  "version": "1.0.5",
-  "description": "选项卡轮子",
+  "version": "1.0.6",
+  "description": "vue选项卡组件",
   "author": "nigo",
   "main": "./dist/nigo-vue-tab.js",
   "scripts": {
