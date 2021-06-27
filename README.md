@@ -1,5 +1,5 @@
 
-## nigo-vue-tab v1.0.4
+## nigo-vue-tab v1.0.5
 
 ## Example Usage
 `    import Tab from 'nigo-vue-tab'
