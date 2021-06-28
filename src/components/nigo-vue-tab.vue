@@ -107,6 +107,7 @@
         border-bottom: 1px solid #ddd;
     }
 
+
     .tab-nav a {
         display: block;
         float: left;
