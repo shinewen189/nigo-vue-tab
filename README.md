@@ -6,6 +6,7 @@
 `    import Tab from 'nigo-vue-tab'
 `
 
+
 ```
  <Tab :content="[{title :'1',content:'内容1'},{title :'2',content:'内容2'}]" 
        tab-width="800"
