@@ -36,6 +36,7 @@
                 type: String,
                 default: 500,
             },
+
             //自定义选项卡高度
             tabHeight: {
                 type: String,
