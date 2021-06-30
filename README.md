@@ -1,17 +1,21 @@
 
-## nigo-vue-tab v1.0.6
+## nigo-vue-tab v1.0.7
 `    npm install nigo-vue-tab
 `
 ## Example Usage
-`    import Tab from 'nigo-vue-tab'
+`    import {Tab,TabItem} from 'nigo-vue-tab'
 `
 
 
 ```
- <Tab :content="[{title :'1',content:'内容1'},{title :'2',content:'内容2'}]" 
+ <Tab :content="[1,2,3,4,5]" 
        tab-width="800"
        tab-height="500"
        theme-color="#333"
+<TabItem>1</TabItem>
+<TabItem>2</TabItem>
+<TabItem>3</TabItem>
+<TabItem>4</TabItem>
        ></Tab>
 ```
 

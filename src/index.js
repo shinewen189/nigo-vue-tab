@@ -1,2 +1,4 @@
-import tab from './components/nigo-vue-tab'
-export default tab;
+import Tab from './components/tab'
+import TabItem from './components/tabItem'
+
+export default {Tab,TabItem};
