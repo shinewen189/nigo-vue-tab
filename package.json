@@ -1,6 +1,6 @@
 {
   "name": "nigo-vue-tab",
-  "version": "1.0.7",
+  "version": "1.1.1",
   "description": "vue选项卡组件",
   "author": "nigo",
   "main": "./dist/nigo-vue-tab.js",

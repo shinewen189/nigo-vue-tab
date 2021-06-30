@@ -1,5 +1,5 @@
 
-## nigo-vue-tab v1.0.7
+## nigo-vue-tab v1.1.1
 `    npm install nigo-vue-tab
 `
 ## Example Usage

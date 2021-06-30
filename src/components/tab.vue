@@ -28,13 +28,13 @@
             content: Array,
             //自定义选项卡宽度
             tabWidth: {
-                type: String,
-                default: '500',
+                type: [String,Number],
+                default: 500,
             },
             //自定义选项卡高度
             tabHeight: {
-                type: String,
-                default: '500',
+                type: [String,Number],
+                default: 500,
             },
             //自定义颜色
             themeColor: {
@@ -91,7 +91,6 @@
     .tab {
         position: relative;
         overflow: hidden;
-        margin: 0 auto 20px;
         border: 1px solid #ddd;
     }
 
@@ -127,7 +126,6 @@
 
     .tab-con-item {
         float: left;
-        text-align: center;
     }
 
     .j-tab-con {
